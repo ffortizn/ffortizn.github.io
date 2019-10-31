@@ -1,40 +1,72 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Document</title>
-    
-    <link rel="stylesheet" href="assets/css/reset.css">
-    <link rel="stylesheet" href="assets/css/style.css">
-    
+    <title>Francisco Ortiz</title>
+    <link rel="stylesheet" href="static/css/reset.css">
+
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"
+        integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"
+        integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM"
+        crossorigin="anonymous"></script>
+
+    <link rel="stylesheet" href="static/css/style.css">
+
 </head>
+
 <body>
-    <header>
-        <nav class="navbar">
-              <ul>
-                    <li><a class="active" href="index.html">Francisco Ortiz</a></li>
-                    <li class="active" style="float:right"><a href="index.html">About</a></li>
-                    <li style="float:right"><a href="contact.html">Contact</a></li>
-                    <li style="float:right"><a href="portfolio.html">Portfolio</a></li>
-                </ul>     
+    <header style="background-color: #466BB0;">
+        <nav class="container navbar-expand-sm navbar-dark">
+            <a style="float:left;" class="nav-link active" href="index.html">Francisco Ortiz</a>
         </nav>
-    </header> 
-        <div class="container">
-            <h2>About me</h2>
-            <hr>
-            <br>
-            <aside><img id="bio-image" src="assets/images/me.jpg" alt="Francisco Ortiz"></aside>
-            <section>
-                <p>Francisco is a professional with 20 years of experience in information technologies, background in systems development, implementation administration & improvement.</p>
+        <nav class="container navbar-expand-sm navbar-dark">
+            <ul class="navbar-nav justify-content-end">
+                <!-- <li class="nav-item active"><a class="nav-link" href="index.html">Francisco Ortiz</a></li> -->
+                <li class="nav-item"><a class="nav-link" href="portfolio.html">Portfolio</a></li>
+                <li class="nav-item"><a class="nav-link" href="contact.html">Contact</a></li>
+                <li class="nav-item active"><a class="nav-link" href="index.html">About</a></li>
+            </ul>
+        </nav>
+    </header>
+    <br><br>
+    <div class="container">
+        <div class="card">
+            <div class="card-header">
+                <h2>About me</h2>
+            </div>
+            <div class="card-body">
+                <aside><img id="bio-image" src="static/image/me.jpg" alt="Francisco Ortiz"></aside>
+                <section>
+                    <p>Francisco is a professional with 20 years of experience in information technologies, background
+                        in
+                        systems development, implementation administration & improvement.</p>
 
-                <p>Francisco has variety of interests like recreative cycling, aquaponics, vermiculture, reading books & cats.</p>
-
-                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Consequat semper viverra nam libero. Orci porta non pulvinar neque. Morbi quis commodo odio aenean sed adipiscing. Nulla facilisi morbi tempus iaculis urna id volutpat lacus. Rhoncus dolor purus non enim. At ultrices mi tempus imperdiet nulla. Mauris a diam maecenas sed enim ut sem. Eros in cursus turpis massa tincidunt. Lobortis feugiat vivamus at augue eget arcu dictum varius. Volutpat est velit egestas dui id ornare arcu odio ut. Lectus quam id leo in vitae turpis massa. Convallis aenean et tortor at risus viverra adipiscing at. Ut sem nulla pharetra diam. Egestas fringilla phasellus faucibus scelerisque eleifend. Magna etiam tempor orci eu. Commodo ullamcorper a lacus vestibulum sed. Rhoncus urna neque viverra justo nec ultrices dui sapien. Massa massa ultricies mi quis hendrerit dolor.</p>
-                <br>
-            </section>
+                    <p>Francisco has variety of interests like aquaponics, astronomy, bicycle touring, programming, planting trees, technology & vermiculture.</p>
+                    <p>
+                        He enjoys reading books, recreative cycling, camping and also loves cats.</p>
+                    <p>
+                        In 2016 Francisco rode his bycicle from Mexicali to Los Cabos Baja, since then he dreams* with traveling the world in bicycle; from California to Patagonia first, then... the world!
+                    </p>
+                    <p>
+                        Francisco is currently part of the team that manufacture the best tortillas in Southern California: Magnolia Foods LLC.
+                    </p>
+                    <p>
+                    <small>
+                        * Kind of... lately is more a plan than a dream.
+                    </small>
+                    </p>
+                    <br>
+                </section>
+            </div>
         </div>
-    <footer class="footer">Copyright &copy; 2019</footer>         
+    </div>
+    <footer class="footer" id="footer">
+        Copyright &copy; 2019
+    </footer>
 </body>
+
 </html>
