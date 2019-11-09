@@ -1,2 +1,1 @@
-# homework1
-Homework #1 - due_date = 20191026
+# My Portfolio - v0.2 - css + bootstrap
