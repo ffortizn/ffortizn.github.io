@@ -17,7 +17,6 @@ As a novice culinary enthusiasts, I want to have a recipe generator that creats 
 1. Type the ingredients you have available to use and press enter or click 'add' button.
 2. As you input items a list of ingredients to search will generate.
 3. Click the 'SHOW ME DELICIOUSNESS!' button, and 3 recipe cards with a title and meal photograph will generate on the right-side panel.
-
 4. If desired, more recipes can be viewed by scrolling up the right-side panel.
 
 ![picture](eclecticKitchen-5.png)
