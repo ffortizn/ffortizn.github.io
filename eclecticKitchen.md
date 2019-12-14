@@ -17,8 +17,11 @@ As a novice culinary enthusiasts, I want to have a recipe generator that creats 
 2. As you input items a list of ingredients to search will generate.
 3. Click the 'SHOW ME DELICIOUSNESS!' button, and 3 recipe cards with a title and meal photograph will generate on the right-side panel.
 4. If desired, more recipes can be viewed by scrolling up the right-side panel.
+![picture](eclecticKitchen-5.png)
 5. Click on a recipe card title to expand and view information on ingredients used, ingredients needed, and cooking instructions.
+![picture](eclecticKitchen-6.png)
 6. To move on to a new recipe click on the recipe card title to close and repeat step #5 to view another recipe card.
+![picture](eclecticKitchen-7.png)
 7. TO generate a different set of recipe recommendations, remove and/or add ingredients on the left-side panel.
 
 ## Prerequisites
