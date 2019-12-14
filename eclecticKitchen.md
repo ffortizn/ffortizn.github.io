@@ -1,9 +1,9 @@
-# eclecticKitchen
-# Project 1: Food App Utilizing APIs
+# Project 1 - eclecticKitchen: Food App Utilizing APIs.
 Team: Meet The IncrEDIBLES:
 
-## Project Description
+![picture](eclecticKitchen.png)
 
+## Project Description
 The **eclecticKitchen** App will be for the aspiring cook that needs some help combining ingredients.
 This App will allow you to make the most of the ingredients they already have at home.
 After you input the items you have, **eclecticKitchen** will suggest dishes you can make with the ingredients you have, also it will show any ingrediens you may still be missing. 
@@ -12,6 +12,7 @@ After you input the items you have, **eclecticKitchen** will suggest dishes you 
 As a novice culinary enthusiasts, I want to have a recipe generator that creats recipes based on the items I have so that I can make quality meals at home on a budget.
 
 ## User Flow
+![picture](eclecticKitchen-1-2-3.png)
 1. Type the ingredients you have available to use and press enter or click 'add' button.
 2. As you input items a list of ingredients to search will generate.
 3. Click the 'SHOW ME DELICIOUSNESS!' button, and 3 recipe cards with a title and meal photograph will generate on the right-side panel.
@@ -20,10 +21,10 @@ As a novice culinary enthusiasts, I want to have a recipe generator that creats 
 6. To move on to a new recipe click on the recipe card title to close and repeat step #5 to view another recipe card.
 7. TO generate a different set of recipe recommendations, remove and/or add ingredients on the left-side panel.
 
-### Prerequisites
-**Web browser;** *we recommend google chrome.*
+## Prerequisites
+**Web browser.** - *We recommend google chrome.*
 
-### Installing
+## Installing
 N/A - Not applicable - No installation required.
 
 ## Getting Started
