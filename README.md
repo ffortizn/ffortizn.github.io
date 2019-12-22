@@ -7,10 +7,10 @@ I am a Sofware Developer in training ;)
 Please see my work so far.
 
 ## Featuring in this version:
-* Eclectic Kitchen
-* Quiz Application
-* Weather Dashboard
-* Password Generator
+* [Eclectic Kitchen](https://ffortizn.github.io/eclecticKitchen)
+* [Quiz Application](https://ffortizn.github.io/timer-based-quiz)
+* [Weather Dashboard](https://ffortizn.github.io/weather-dashboard)
+* [Password Generator](https://ffortizn.github.io/password-generator)
 
 ### Prerequisites
 Web browser: we recommend google chrome
@@ -22,13 +22,10 @@ N/A
 1. Open web browser
 2. Navigate to https://ffortizn.github.io/
 
-## Built With
-* HTML
-* CSS
-* JavaScript
+## Technologies in this project
+* [HTML](https://www.w3.org/html/)
+* [CSS](https://www.w3.org/Style/CSS/Overview.en.html)
+* [JavaScript](https://www.javascript.com/)
 
 ## Author
 * **Francisco Ortiz** - *Initial work*
-
-This is not me, it is just a picture of me:
-![picture](static/image/me.jpg)
