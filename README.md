@@ -19,7 +19,7 @@ Web browser: we recommend google chrome
 N/A
 
 ## Running
-![picture](me.jpg)
+![picture](static/image/me.jpg)
 I am a Sofware Developer in training.
 Please see my work so far.
 
